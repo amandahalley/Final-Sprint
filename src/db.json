@@ -1,0 +1,16 @@
+{
+    "PRODUCTS": [
+      { "id": 1, "productName": "Protein", "price": 45.99, "productImage": "img 1.jpeg" },
+      { "id": 2, "productName": "Pre-Workout", "price": 27.99, "productImage": "img 2.jpeg" },
+      { "id": 3, "productName": "Creatine", "price": 27.99, "productImage": "img 3.jpeg" },
+      { "id": 4, "productName": "BCAA", "price": 39.99, "productImage": "img 4.jpeg" },
+      { "id": 5, "productName": "Multi-Vitamin", "price": 28.99, "productImage": "img 5.webp" },
+      { "id": 6, "productName": "L-Glutamine", "price": 24.99, "productImage": "img 6.webp" }
+      
+    ],
+    "CLOTHING": [
+      { "id": 7, "productName": "T-Shirts", "price": 29.99, "productImage": "img 7.webp" },
+      { "id": 8, "productName": "Joggers", "price": 34.99, "productImage": "img 8.jpeg" },
+      { "id": 9, "productName": "Hoodie", "price": 64.99, "productImage": "img 9.jpg" }
+    ]
+ }
